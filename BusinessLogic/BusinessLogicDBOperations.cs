@@ -83,8 +83,7 @@ namespace BusinessLogic
                 if (reader.Read())
                 {
                     Book1 = new Book();
-
-
+                    
                     Book1.BookID = (int)reader["BookID"];
                     Book1.Title = (string)reader["Title"];
                     Book1.ISBN = (string)reader["ISBN"];
