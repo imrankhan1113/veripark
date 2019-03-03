@@ -1,0 +1,87 @@
+﻿body {
+}
+
+.Heading
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 35px;
+font-style:normal;
+width:100%;
+text-align:center;
+}
+
+.GridHeading
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style:normal;
+text-align:center;
+width:150px;
+background-color:aliceblue;
+font-weight:bold;
+}
+
+.RadioButtonColumn
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style:normal;
+text-align:center;
+width:10px;
+background-color:aliceblue;
+font-weight:bold;
+}
+
+.text
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style:normal;
+text-align:center;
+}
+
+.Errortext
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style:normal;
+text-align:center;
+color:red;
+}
+
+.text2
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style:normal;
+text-align:left;
+font-weight:bold;
+}
+
+.table {
+    border:thin;
+    border-color:black;
+    padding:0px;
+    border-spacing:0px;
+    align-self:center;
+}
+
+.button {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style:normal;
+text-align:center;
+height:20px; 
+width:75px;
+}
+
+.textbox {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style:normal;
+text-align:left;
+height:20px; 
+width:150px;
+
+}
+
